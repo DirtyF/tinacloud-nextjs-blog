@@ -11,7 +11,7 @@ fields:
   - type: text
     label: Cover Image
     name: coverImage
-  - type: datetime
+  - type: text
     label: Date
     name: date
   - type: field_group

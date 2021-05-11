@@ -27,7 +27,7 @@ export default defineSchema({
               name: 'coverImage',
             },
             {
-              type: 'datetime',
+              type: 'text',
               label: 'Date',
               name: 'date',
             },

@@ -6,7 +6,7 @@ excerpt: >-
   vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla
   facilities morbi tempus.
 coverImage: /assets/blog/hello-world/cover.jpg
-date: 'Mar 16, 2020'
+date: '2020-03-16T05:35:07.322Z'
 author:
   name: Tim Neutkens
   picture: /assets/blog/authors/tim.jpeg
